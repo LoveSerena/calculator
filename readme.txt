@@ -1,1 +1,0 @@
-use any browser to open index.html
